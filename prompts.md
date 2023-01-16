@@ -32,3 +32,7 @@ Multiple possible options correct question: This is a question where there can b
 ## Prompt to Generate Each Section with Quiz Questions in the Liascript Markdown Format
 
 Could you please write the "________" section using Markdown. Please include the "_____" and "_______" subsections. Explain the concept, include examples of errors students make and 3 quiz questions in the markdown format.
+
+## Prompt to Generate an End of Module Quiz Questions in the Liascript Markdown Format
+
+Could you please write the end of module quiz for all the sections in the module which includes "______",  "______",  "______", "______" and  "______" section using Markdown. Include at least 10 quiz questions in the markdown format.
