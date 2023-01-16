@@ -1,4 +1,4 @@
-#Prompt Templates
+# Prompt Templates
 
 The example prompts used to get chatGPT to act as an SME and Learning Designer, generate content in Markdown and MCQ's in [Liascript](https://liascript.github.io/) format.
 
