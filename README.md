@@ -58,18 +58,22 @@ There are eight parts of speech in the English language: nouns, verbs, adjective
 - "I will run quickly." In this sentence, "I" is a pronoun, "will" is a verb, "run" is a verb, and "quickly" is an adverb.
 
 **Quiz questions**
+
 Select one option question: What part of speech is the word "happy" in the sentence "She is happy."?
+
   [( )] Adverb
   [(X)] Adjective
   [( )] Noun
 
 Multiple possible options correct question: What parts of speech are the words "cat" and "mat" in the sentence "The cat sat on the mat."?
+
   [[ ]] Noun
   [[X]] Verb
   [[X]] Noun
   [[ ]] Pronoun
 
 Multiple possible options correct question: What parts of speech are the words "I", "will" and "run" in the sentence "I will run quickly."?
+
   [[X]] Pronoun
   [[X]] Verb
   [[ ]] Adjective
@@ -97,17 +101,21 @@ There are four main types of sentence structures: simple, compound, complex, and
 - Compound-complex sentences: Start with a capital letter, use a comma before the coordinating conjunction, use a comma to separate the dependent clause from the independent clause, and end with a period.
 
 **Quiz questions**
+
 Select one option question: Which type of sentence contains one independent clause and no dependent clauses?
+
   [( )] Complex
   [( )] Compound-complex
   [(X)] Simple
 
 Select one option question: Which punctuation is used to join two independent clauses in a compound sentence?
+
   [( )] Period
   [(X)] Comma
   [( )] Semicolon
 
 Multiple possible options correct question: Which type of sentence contains one independent clause and one or more dependent clauses?
+
   [[X]] Complex
   [[ ]] Simple
   [[ ]] Compound
@@ -121,6 +129,7 @@ Multiple possible options correct question: Which type of sentence contains one 
 **Explanation of common punctuation marks (period, comma, semicolon, etc.)**
 
 Punctuation is used to clarify the meaning of sentences and to make writing more readable. Some of the most common punctuation marks are:
+
 - Period (.): used to end a sentence.
 - Comma (,): used to separate items in a list, to separate clauses in a sentence, or to indicate a pause.
 - Semicolon (;): used to separate clauses in a sentence when there is a stronger connection between them than a comma would indicate.
@@ -142,18 +151,22 @@ Punctuation is used to clarify the meaning of sentences and to make writing more
 - Hyphen: Use hyphens to link words together or to divide a word at the end of a line.
 
 **Quiz questions**
+
 Select one option question: Which punctuation mark is used to indicate a pause?
+
   [(X)] Comma
   [( )] Semicolon
   [( )] Colon
 
 Multiple possible options correct question: Which punctuation marks are used to set off a direct quotation or a title of a short work?
+
   [[X]] Quotation marks (“” or ‘’)
   [[X]] Parentheses ( )
   [[ ]] Dash (-)
   [[ ]] Hyphen (-)
 
 Select one option question: Which punctuation mark is used to indicate a relationship between clauses?
+
   [( )] Comma
   [( )] Semicolon
   [(X)] Colon
@@ -180,16 +193,19 @@ Using the wrong homophone can change the meaning of a sentence and make it diffi
 **Quiz questions**
 
 Select one option question: Which of the following words means "a place"?
+
   [(X)] There
   [( )] Their
   [( )] They're
 
 Select one option question: Which of the following words is a verb meaning "to separate"?
+
   [(X)] Break
   [( )] Brake
   [( )] Both
 
 Select one option question: Which of the following words means "a blooming plant" ?
+
   [(X)] Flower
   [( )] Flour
   [( )] Both
@@ -214,18 +230,22 @@ It's important to use apostrophes correctly because they can change the meaning 
 - Possessives: "the dog's bone," "the children's toys," "the students' grades."
 
 **Quiz questions**
+
 Select one option question: Which of the following words is a contraction?
+
   [(X)] Don't 
   [( )] Dogs
   [( )] There
 
 Multiple possible options correct question: Which of the following sentences use apostrophes correctly to indicate possession?
+
   [[X]] The dog's bone
   [[X]] The children's toys
   [[ ]] The dog bone
   [[ ]] The children toys
 
 Select one option question: Which of the following words is a contraction?
+
   [( )] Dogs
   [(X)] Can't 
   [( )] Cant
@@ -236,54 +256,64 @@ Select one option question: Which of the following words is a contraction?
 > It is just an experiment to illustrate some chatGPT prompts.
 
 Multiple possible options correct question: Which of the following words is a verb?
+
   [[X]] Run
   [[X]] Jump
   [[ ]] Cat
   [[ ]] Table
 
 Multiple possible options correct question: Which of the following sentences use apostrophes correctly to indicate possession?
+
   [[X]] The dog's bone
   [[X]] The children's toys
   [[ ]] The dog bone
   [[ ]] The children toys
 
 Select one option question: Which punctuation mark is used to indicate a pause?
+
   [(X)] Comma
   [( )] Semicolon
   [( )] Colon
 
 Multiple possible options correct question: Which punctuation marks are used to set off a direct quotation or a title of a short work?
+
   [[X]] Quotation marks (“” or ‘’)
   [[X]] Parentheses ( )
   [[ ]] Dash (-)
   [[ ]] Hyphen (-)
 
 Select one option question: Which of the following words means "a place"?
+
   [(X)] There
   [( )] Their
   [( )] They're
 
 Select one option question: Which of the following words is a verb meaning "to separate"?
+
   [(X)] Break
   [( )] Brake
   [( )] Both
 
 Select one option question: Which of the following words is a contraction?
+
   [(X)] Don't 
   [( )] Dogs
   [( )] There
 
 Select one option question: Which of the following sentence structures is a simple sentence?
+
   [(X)] The dog barks
   [( )] The dog, which is very big, barks 
   [( )] The dog, although it is very big, barks
 
 Select one option question: Which of the following words is a noun?
+
   [(X)] Book
   [( )] Read
   [( )] Reading
   
 Select one option question: Which of the following words is an adjective?
+
   [(X)] Green
   [( )] Grow
   [( )] Growing
@@ -295,21 +325,13 @@ Select one option question: Which of the following words is an adjective?
 
 Here are some tips and strategies for teaching the module via a virtual zoom session:
 
-Break up the content into chunks: Instead of delivering a lecture that covers all the grammar topics in one go, break up the content into smaller chunks that are easy for students to understand and retain.
-
-Use a variety of teaching methods: Use a mix of visual aids, interactive activities, and hands-on exercises to keep students engaged.
-
-Encourage participation: Ask questions and encourage students to participate in class discussions, quizzes, and other interactive activities.
-
-Provide immediate feedback: Give students immediate feedback on their work to help them understand where they need to improve.
-
-Use collaborative activities: Encourage students to work together in small groups or pairs to complete activities, such as creating a sentence using a specific grammar rule or correcting sentences with errors.
-
-Here are a few collaborative activities you can give to students in the session:
-
-Sentence Scramble: Divide the class into small groups and give each group a set of words. Ask them to form grammatically correct sentences using the words.
-
-Grammar Treasure Hunt: Divide the class into small groups and give them a list of grammar rules to find in a text. Ask them to highlight the examples and explain how they used the rule.
-
-Error Correction: Divide the class into small groups and give them a set of sentences with errors. Ask them to find and correct the errors, and explain why the correction is correct.
+- Break up the content into chunks: Instead of delivering a lecture that covers all the grammar topics in one go, break up the content into smaller chunks that are easy for students to understand and retain.
+- Use a variety of teaching methods: Use a mix of visual aids, interactive activities, and hands-on exercises to keep students engaged.
+- Encourage participation: Ask questions and encourage students to participate in class discussions, quizzes, and other interactive activities.
+- Provide immediate feedback: Give students immediate feedback on their work to help them understand where they need to improve.
+- Use collaborative activities: Encourage students to work together in small groups or pairs to complete activities, such as creating a sentence using a specific grammar rule or correcting sentences with errors.
+- Here are a few collaborative activities you can give to students in the session:
+- Sentence Scramble: Divide the class into small groups and give each group a set of words. Ask them to form grammatically correct sentences using the words.
+- Grammar Treasure Hunt: Divide the class into small groups and give them a list of grammar rules to find in a text. Ask them to highlight the examples and explain how they used the rule.
+- Error Correction: Divide the class into small groups and give them a set of sentences with errors. Ask them to find and correct the errors, and explain why the correction is correct.
 
